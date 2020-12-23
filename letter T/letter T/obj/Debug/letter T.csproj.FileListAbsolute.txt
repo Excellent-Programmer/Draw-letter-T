@@ -1,0 +1,6 @@
+D:\Draw with C#\letter T\letter T\bin\Debug\letter T.exe.config
+D:\Draw with C#\letter T\letter T\bin\Debug\letter T.exe
+D:\Draw with C#\letter T\letter T\bin\Debug\letter T.pdb
+D:\Draw with C#\letter T\letter T\obj\Debug\letter T.csproj.CoreCompileInputs.cache
+D:\Draw with C#\letter T\letter T\obj\Debug\letter T.exe
+D:\Draw with C#\letter T\letter T\obj\Debug\letter T.pdb
